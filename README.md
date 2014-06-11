@@ -12,6 +12,6 @@ Jun 10 2014
 
 Files includes
 --------------
-README.md 		# A README file for github to preview
-requirements.txt	# I am using a virtualenv with pip to install these plugins/packages/modules. Simply type "pip install -r requirements.txt" to start hacking. 
-Travelabulous\ 		# Folder contains the actual code. 
+1. README.md 		# A README file for github to preview
+2. requirements.txt	# I am using a virtualenv with pip to install these plugins/packages/modules. Simply type "pip install -r requirements.txt" to start hacking. 
+3. Travelabulous\ 		# Folder contains the actual code. 
